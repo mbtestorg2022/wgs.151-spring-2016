@@ -4,17 +4,192 @@ title: Calendar
 uid: 6e98fa95-ed44-9ac7-809f-70fad94ac14e
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Biology, History, and Conceptual Frameworks | &nbsp; |
-| 2 | Cardiovascular Disease and Hormone Therapy | Reading reflection due |
-| 3 | Gender Analysis | Reading reflection due |
-| 4 | Pregnancy and Birth  | Reading reflection due |
-| 5 |  {{< br >}}{{< br >}} Sexually Transmitted Infections {{< br >}}{{< br >}} _Note: During this class, there will be a mock state assembly meeting on Human Papillomavirus (HPV) Vaccinations, in which students will be assigned the role of witness or assembly member._ {{< br >}}{{< br >}} _See "To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia" in the [Assignments]({{< baseurl >}}/pages/assignments) Section for further detail._ {{< br >}}{{< br >}}  | Testimony (if witness) due |
-| 6 | Abortion |  {{< br >}}{{< br >}} Reading reflection due {{< br >}}{{< br >}}   {{< br >}}Opinion paper (if assembly member) due {{< br >}}{{< br >}}  |
-| 7 | Sexual Orientation |  {{< br >}}{{< br >}} Reading reflection due {{< br >}}{{< br >}} Final project proposal due {{< br >}}{{< br >}}  |
-| 8 | Gender Identity and Expression  | Reading reflection due |
-| 9 | Contraceptives  | Reading reflection due |
-| 10 | Mental Health and Sex-Based Research |  {{< br >}}{{< br >}} Reading reflection due {{< br >}}{{< br >}} Final project write-up due {{< br >}}{{< br >}}  |
-| 11 | Final Project Presentations | &nbsp; |
-| 12 | Final Project Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Biology, History, and Conceptual Frameworks
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Cardiovascular Disease and Hormone Therapy
+{{< tdclose >}}
+{{< tdopen >}}
+Reading reflection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Gender Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Reading reflection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pregnancy and Birth 
+{{< tdclose >}}
+{{< tdopen >}}
+Reading reflection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sexually Transmitted Infections
+
+_Note: During this class, there will be a mock state assembly meeting on Human Papillomavirus (HPV) Vaccinations, in which students will be assigned the role of witness or assembly member._
+
+_See "To Vaccinate or Not to Vaccinate: The Story of Hamilton, Columbia" in the [Assignments]({{< baseurl >}}/pages/assignments) Section for further detail._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Testimony (if witness) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Abortion
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reflection due
+
+  
+Opinion paper (if assembly member) due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sexual Orientation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reflection due
+
+Final project proposal due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Gender Identity and Expression 
+{{< tdclose >}}
+{{< tdopen >}}
+Reading reflection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Contraceptives 
+{{< tdclose >}}
+{{< tdopen >}}
+Reading reflection due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Mental Health and Sex-Based Research
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading reflection due
+
+Final project write-up due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Final Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
